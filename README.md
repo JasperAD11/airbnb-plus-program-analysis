@@ -29,7 +29,7 @@ The cleaned dataset contains **14,643 observations** across **773 zip codes** in
 - `final-report.pdf`  
   Final report with methodology, visual analysis, model specification, and discussion.
 
-- `stats-final-exam_FINAL.pdf`  
+- `stats-final-exam.pdf`  
   Unrelated exam reference sheet kept in the repository separately.
 
 ## Methods used
