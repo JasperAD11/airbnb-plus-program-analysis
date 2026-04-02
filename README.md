@@ -20,13 +20,13 @@ The cleaned dataset contains **14,643 observations** across **773 zip codes** in
 - `README.md`  
   Overview of the project and repository structure.
 
-- `airbnb_data_clean.csv`  
+- `airbnb-data-clean.csv`  
   Cleaned dataset used for the analysis.
 
-- `projpart2_groupE_FINAL_CODE.Rmd`  
+- `analysis-code.Rmd`  
   R Markdown source file containing the analysis and modelling code.
 
-- `projpart2_groupE_FINAL.pdf`  
+- `final-report.pdf`  
   Final report with methodology, visual analysis, model specification, and discussion.
 
 - `stats-final-exam_FINAL.pdf`  
